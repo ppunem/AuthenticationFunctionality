@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.Container{
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 150px;
+}
+li{
+    list-style-type: none;
+}

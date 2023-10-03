@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.head{
+    font-family: "roboto";
+    text-align: center;
+    font-weight: bold;
+}
+.c{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
